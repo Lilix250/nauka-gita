@@ -3,5 +3,6 @@
 }
 
 .test {
+    display: -ms-flexbox;
     display: flex;
 }
